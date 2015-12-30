@@ -2,6 +2,7 @@ name: mobilution
 favicon: null
 layout_spectrum: 0.6348809332121164
 typography_spectrum: 0.1635482197161764
+title: mobilution.io
 cta:
   domain: null
   bucket: null
